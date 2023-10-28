@@ -2,7 +2,7 @@
 
 ![Clock](images/icon.png)
 
-A super simple, open source status-bar clock for Visual Studio Coe.
+A super simple, open source status-bar clock for Visual Studio Code.
 
 There seem to be lots of status bar clock extensions for Visual Studio Code, but
 nearly all of them are closed-source?  Something so simple should surely be free
