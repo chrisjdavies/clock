@@ -8,6 +8,11 @@ There seem to be lots of status bar clock extensions around, but nearly all of
 them are closed-source?  Something so simple should surely be free and open --
 so here we go.
 
+## Installation
+
+Install through the Visual Studio Code Marketplace:
+https://marketplace.visualstudio.com/items?itemName=chrisjdavies.super-simple-clock
+
 ## Configuration
 
 |Property|Description|Type|Default value|
