@@ -17,6 +17,8 @@ function tick() {
 		}
 
 		statusItem.text = new Date().toLocaleTimeString(vscode.env.language, { hour12: !show24Hour, timeStyle: 'short' });
+		statusItem.tooltip = new Date().toLocaleDateString(vscode.env.language, { dateStyle: 'full' });
+
 		setTimeout(tick, DEFAULT_UPDATE_PERIOD);
 	}
 }
